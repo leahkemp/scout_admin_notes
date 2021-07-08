@@ -15,6 +15,8 @@ Last modified: 2020/12/16 10:15:14
 which scout
 ```
 
+My output:
+
 ```bash
 /home/lkemp/anaconda3/envs/scout_env/bin/scout
 ```
@@ -24,6 +26,8 @@ which scout
 ```bash
 scout --version
 ```
+
+My output:
 
 ```bash
 scout, version 4.23

@@ -92,7 +92,7 @@ Now run the demo
 scout --demo serve
 ```
 
-Either directly use Wintermute or create an SSH tunnel so that we can use it's GUI to explore scout.
+Either directly use the server or create an SSH tunnel so that we can remotely use it's GUI to explore scout.
 
 Connect to the [connection](http://localhost:5000/) through a browser to open the scout GUI. Use the user email clark.kent@mail.com to get access.
 
