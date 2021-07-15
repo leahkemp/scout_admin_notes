@@ -44,7 +44,7 @@ cd /store/lkemp/GA_clinical_genomics/scout/
 - Check the status of the repo and pull from the remote repositiory
 
 ```bash
-# Chcek status
+# Check status
 git status
 
 # Update my local github repo with the main repo
