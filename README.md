@@ -8,3 +8,4 @@ A collection of notes for admins on setting up, maintaining and using [scout](ht
 - [Creating config files to load cases](./config_files.md)
 - [Update the version of scout while a database is being used in production](./update_scout_in_production.md)
 - [Useful commands/operations](./useful_commands.md)
+- [Getting database logs](./get_database_logs.md)
