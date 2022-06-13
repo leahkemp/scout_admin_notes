@@ -48,7 +48,7 @@ cd /store/lkemp/GA_clinical_genomics/scout/
 git status
 
 # Update my local github repo with the main repo
-git pull origin master
+git pull origin main
 ```
 
 - Check out the release to update, in my case, version 4.27
